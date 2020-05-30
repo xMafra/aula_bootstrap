@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #09ED99;
+}
+
+body{
+    background-color: black;
+}
+
+.quem-somos{
+    background-color: #09ED99;
+}
+
+.margin{
+    margin-top: 30px;
+    padding-top: 10px;
+
+}
+
+a{
+    color: black;
+}
+
+li{
+    color: black;
+    font-weight: bold;
+}
+
+h3{
+    text-align: center;
+    color: #09ED99;
+}
+
+.parceiros{
+    background-color: #09ED99;
+}
+
+.container{
+    background-color: black;
+}
+
+.projeto{
+    background-color: #09ED99;
+}
+
+p{
+    color: #09ED99;
+}
+
